@@ -1,0 +1,23 @@
+{
+    "name": "joaopdeveloper/digital-cep",
+    "description": "Busca de cep online",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Search": "src/"
+        },
+        "psr-0": {
+            "Joaopdeveloper\\DigitalCep\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joao Pedro",
+            "email": "joao_entreprise@hotmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.2.0"
+    }
+}
